@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T21:08:57 CDT" name="Adhoc" finished-at="2022-05-10T21:09:17 CDT" duration-ms="19747">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T21:08:57 CDT" name="RegressionOfChrome" finished-at="2022-05-10T21:09:04 CDT" duration-ms="7298">
+      <class name="piit.AutomationTrainingProgram.Exexution">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:08:57 CDT" name="beforeTest" finished-at="2022-05-10T21:08:57 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="beforeClass" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="Test2" finished-at="2022-05-10T21:09:04 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="f" finished-at="2022-05-10T21:09:04 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="afterMethod" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="afterTest" finished-at="2022-05-10T21:09:04 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="afterClass" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@21282ed8]" started-at="2022-05-10T21:09:04 CDT" name="afterMethod" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- piit.AutomationTrainingProgram.Exexution -->
+      <class name="piit.AutomationTrainingProgram.Browsersd">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@ffaa6af]" started-at="2022-05-10T21:08:57 CDT" name="beforeClass" finished-at="2022-05-10T21:09:00 CDT" duration-ms="2962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@ffaa6af]" started-at="2022-05-10T21:09:00 CDT" name="f" finished-at="2022-05-10T21:09:00 CDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@ffaa6af]" started-at="2022-05-10T21:09:00 CDT" name="afterClass" finished-at="2022-05-10T21:09:04 CDT" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- piit.AutomationTrainingProgram.Browsersd -->
+    </test> <!-- RegressionOfChrome -->
+    <test started-at="2022-05-10T21:09:04 CDT" name="RegressionOfFirefox" finished-at="2022-05-10T21:09:11 CDT" duration-ms="6164">
+      <class name="piit.AutomationTrainingProgram.Exexution">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:04 CDT" name="beforeTest" finished-at="2022-05-10T21:09:04 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="beforeClass" finished-at="2022-05-10T21:09:11 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Test2()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="Test2" finished-at="2022-05-10T21:09:11 CDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="afterMethod" finished-at="2022-05-10T21:09:11 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="f" finished-at="2022-05-10T21:09:11 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="afterTest" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="afterMethod" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e3967ea]" started-at="2022-05-10T21:09:11 CDT" name="afterClass" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- piit.AutomationTrainingProgram.Exexution -->
+      <class name="piit.AutomationTrainingProgram.Browsersd">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@5d534f5d]" started-at="2022-05-10T21:09:04 CDT" name="beforeClass" finished-at="2022-05-10T21:09:06 CDT" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@5d534f5d]" started-at="2022-05-10T21:09:06 CDT" name="f" finished-at="2022-05-10T21:09:06 CDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@5d534f5d]" started-at="2022-05-10T21:09:06 CDT" name="afterClass" finished-at="2022-05-10T21:09:11 CDT" duration-ms="4142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- piit.AutomationTrainingProgram.Browsersd -->
+    </test> <!-- RegressionOfFirefox -->
+    <test started-at="2022-05-10T21:09:11 CDT" name="RegressionOfEdge" finished-at="2022-05-10T21:09:17 CDT" duration-ms="6254">
+      <class name="piit.AutomationTrainingProgram.Exexution">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:08:57 CDT" name="beforeSuite" finished-at="2022-05-10T21:08:57 CDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:11 CDT" name="beforeTest" finished-at="2022-05-10T21:09:11 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="beforeClass" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test2()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="Test2" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="afterMethod" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="f" finished-at="2022-05-10T21:09:17 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="beforeMethod" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="afterMethod" finished-at="2022-05-10T21:09:17 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="afterClass" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="afterTest" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:piit.AutomationTrainingProgram.Exexution@2e6a8155]" started-at="2022-05-10T21:09:17 CDT" name="afterSuite" finished-at="2022-05-10T21:09:17 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- piit.AutomationTrainingProgram.Exexution -->
+      <class name="piit.AutomationTrainingProgram.Browsersd">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@51c668e3]" started-at="2022-05-10T21:09:11 CDT" name="beforeClass" finished-at="2022-05-10T21:09:13 CDT" duration-ms="1978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@51c668e3]" started-at="2022-05-10T21:09:13 CDT" name="f" finished-at="2022-05-10T21:09:13 CDT" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:piit.AutomationTrainingProgram.Browsersd@51c668e3]" started-at="2022-05-10T21:09:13 CDT" name="afterClass" finished-at="2022-05-10T21:09:17 CDT" duration-ms="4139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- piit.AutomationTrainingProgram.Browsersd -->
+    </test> <!-- RegressionOfEdge -->
+  </suite> <!-- Adhoc -->
+</testng-results>
